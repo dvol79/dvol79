@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dvol79
+- 👋 Hi, I’m Dmitry Volkov
 - 👀 I’m interested in web development using frameworks based on PHP: Yii2, Laravel.
   My subject area of study is programming, psychology, anthroposophy, fitness
 - 💞️ I am interested in projects in the field of psychology, mental and physical health, medical devices...
